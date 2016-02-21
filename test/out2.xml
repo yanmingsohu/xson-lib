@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ret>1</ret>
+<ret a="1" b="2">
+1</ret>
+<ret c="11" x="22">
+1xxxx</ret>
+<data>1</data>
+<data>2</data>
+<data>3</data>
+<data>4</data>
+<data>
+    <year>2015</year>
+    <month>8</month>
+</data>

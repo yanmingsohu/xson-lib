@@ -1,0 +1,15 @@
+{
+  "name": "xson-lib",
+  "version": "0.1.5",
+  "description": "json to xml to json convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "yanming",
+  "license": "ISC"
+}
