@@ -9,6 +9,8 @@
 
 npm install --save xson-lib
 
+该项目没有加入 npm 公共服务器, 如需要自行搞定..
+
 
 ## Usage
 
